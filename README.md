@@ -29,6 +29,7 @@ To be able to compile the codes:
 ## Methods
 
 -[TMPred] :
+
 	Use: ./TMPred file_name <opt>
 		<file_name>: Name of the fasta file to be analyzed
 	Options:
